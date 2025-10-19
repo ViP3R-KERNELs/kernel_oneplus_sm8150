@@ -42,6 +42,18 @@
 Module.symvers
 modules.builtin
 
+/Anykernel/
+/drivers/staging/rtl8188eus/
+/drivers/staging/rtl8188fu/
+/drivers/staging/rtl8192eu/
+/drivers/staging/rtl8812au/
+/drivers/staging/rtl88x2bu/
+/kali-nethunter-kernel/
+/net/wireless/
+/techpack/audio/
+/out/
+
+
 #
 # Top-level generic files
 #
